@@ -1,0 +1,31 @@
+Track File:	I:\LOEG\papers\Glauconema\circos\mcscan\tile.txt;tile.txt21086615
+Track Type:	Tile
+Track StartPos:	80
+Track EndPos:	90
+Track BinMode:	None
+Track BinSize:	1
+Track OneColor:	255,0,0
+Track TwoColor:	255,200,0
+Track ThreeColor:	255,255,0
+Track FixMax:	NaN
+Track FixMid:	NaN
+Track FixMin:	NaN
+Track BorderColor:	255,255,204
+Track ColorByChr:	false
+Track ElementStroke:	1.0E-4
+Track Sep Line Value:	NaN
+Track File:	I:\LOEG\papers\Glauconema\circos\mcscan\arrow1.txt;arrow1.txt70202088
+Track Type:	Triangle
+Track StartPos:	105
+Track EndPos:	115
+Track BinMode:	None
+Track BinSize:	1
+Track OneColor:	255,0,0
+Track TwoColor:	255,200,0
+Track ThreeColor:	255,255,0
+Track FixMax:	NaN
+Track FixMid:	NaN
+Track FixMin:	NaN
+Track ColorByChr:	false
+Track ElementStroke:	1.0
+Track Sep Line Value:	NaN

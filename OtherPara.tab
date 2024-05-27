@@ -1,0 +1,39 @@
+Cirlize:	true
+Graph Width:	1000
+Graph Height:	1000
+LeftUp Space:	50
+Start Angle:	90
+End Angle:	450
+ChrBar StartPos:	80
+ChrBar EndPos:	90
+ChrLabel Pos:	85
+Interval Ratio:	0
+ChrBorder Color:	0,0,0
+ChrFill Color:	:240,240,240
+Label StartPos:	90
+Label EndPos:	95
+Label Color:	64,64,64
+Label Font:	Arial,0,14
+ShowLabel:	false
+Text Spread Mode:	Together
+ChrLabel Color:	255,200,0
+ChrLabel Font:	Arial,1,18
+ChrLabel Type:	TextPolarOut
+ChrBorder Size:1.0
+Link Pos:	79
+Link Stroke:	1.0
+Reduce Obj:	true
+Tick Color:	255,0,0
+MajorTick Len:	20
+MajorTick Interval:	10000000
+MinorTick Len:	10
+MinorTick Interval:	2000000
+Tick Text Space:	12
+Overlap Weight:	-7.0
+Median Mean:	false
+Quantile Scale:	false
+Legend Decimal Format:	0.00
+Show Chr Label:	false
+Show Chr Bar:	false
+Show Interval Tick:	false
+Link Seg Color:	64,64,64
