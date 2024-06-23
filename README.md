@@ -1,2 +1,3 @@
-# PanJ_2024
-Molecular basis and evolution of phenotypic plasticity in the marine ciliate Glauconema
+# Glauconema phenotypic plasticity data & scripts
+Molecular basis and  of phenotypic plasticity in a marine ciliate Glauconema
+
