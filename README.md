@@ -83,7 +83,7 @@ OtherPara.tab		input data for R for TBtools
 TrackInfo.tab		input data for R for TBtools  
 TrakFile.Cache		input data for R for TBtools  
 		
-Glauconema_2024-Figure-2A/TrakFile.Cache：  		
+Glauconema_2024-Figure-2A/TrakFile.Cache:  
 gla0827_gene.txt12029257		input data for R for TBtools  
 gla0827_gene.txt1255490		input data for R for TBtools  
 gla0827_gene.txt18025636		input data for R for TBtools  
@@ -129,21 +129,21 @@ Glauconema_2024-Figure-2C-S6J:
 gene_length_number.csv		input data for R  
 gene_length_number.R		R script  
 		
-Glauconema_2024-Figure-2D-S6K:
+Glauconema_2024-Figure-2D-S6K:  
 gene_per_contig_0827.csv		input data for R  
 gene_per_contig_0827.R		R script  
 gene_per_contig_43.csv		input data for R  
 gene_per_contig_43.R		R script  
 		
-Glauconema_2024-Figure-2E-S6L:
+Glauconema_2024-Figure-2E-S6L:  
 exon_per_gene_0827_43.csv		input data for R  
 exon_per_gene_0827_43.R		R script  
 		
-Glauconema_2024-Figure-2F-S6M:
+Glauconema_2024-Figure-2F-S6M:  
 intron_length.R		R script  
 intron_length.xlsx		input data for R  
 		
-Glauconema_2024-Figure-3A:
+Glauconema_2024-Figure-3A:  
 ChrInfo.tab		input data for R for TBtools  
 GenePos.tab		input data for R for TBtools  
 LinkRegion.tab		input data for R for TBtools  
@@ -158,12 +158,12 @@ OtherPara.tab		input data for R for TBtools
 README.md		input data for R for TBtools  
 TrackInfo.tab		input data for R for TBtools  
 		
-Glauconema_2024-Figure-3C:
+Glauconema_2024-Figure-3C:  
 expand_genename.csv		input data for R  
 expand_genename_GO.csv		input data for R  
 expand_genename_GO.R		R script  
 		
-Glauconema_2024-Figure-4:
+Glauconema_2024-Figure-4:  
 BP_database.csv		input data for R  
 CC_database.csv		input data for R  
 deseq_R.R		R script  
@@ -224,7 +224,7 @@ pgk1.xlsx		input data for R
 RNA binding.R		R script  
 RNA binding.xlsx		input data for R  
 		
-Glauconema_2024-Figure-S2:
+Glauconema_2024-Figure-S2:  
 data.txt		input data for R  
 Glauconema_percent.R		R script  
 observed_features_alpha_rarefaction.csv		input data for R  
@@ -240,7 +240,7 @@ Glauconema_2024-Figure-S4:
 Figure S4.csv		input data for R  
 Figure S4.R		R script  
 		
-Glauconema_2024-Figure-S6H:  	
+Glauconema_2024-Figure-S6H:  
 ChrInfo.tab		input data for R for TBtools  
 GenePos.tab		input data for R for TBtools  
 LinkRegion.tab		input data for R for TBtools  
