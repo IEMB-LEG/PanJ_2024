@@ -34,8 +34,9 @@ R
 # Usage
 **a. Figure-1L**
 
+The survival curve of tomites of G. sp1 LHA0827 upon starvation.
 ```
-Rscript	Figure_1L.R	Figure_1L.xlsx 
+Rscript	Figure_1L.R Figure_1L.xlsx 
 ```
 
 # dataset
