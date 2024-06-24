@@ -53,7 +53,7 @@ Glauconema_2024-Figure-1L:
 Figure_1L.R		R script  
 Figure_1L.xlsx		input data for R  
 		
-Glauconema_2024-Figure-1N-S6E:  	
+Glauconema_2024-Figure-1N-S6E:  
 LHA0827_length_width.R		R script     
 LHA0827.xlsx		input data for R  
 LJL43_length_width.R		R script  
