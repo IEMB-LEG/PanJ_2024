@@ -53,23 +53,23 @@ Glauconema_2024-Figure-1L:
 Figure_1L.R		R script  
 Figure_1L.xlsx		input data for R  
 		
-Glauconema_2024-Figure-1N-S6E:   		
+Glauconema_2024-Figure-1N-S6E:  	
 LHA0827_length_width.R		R script     
 LHA0827.xlsx		input data for R  
 LJL43_length_width.R		R script  
 LJL43.xlsx		input data for R  
 		
-Glauconema_2024-Figure-1N-S6F:  		
+Glauconema_2024-Figure-1N-S6F:  
 speed_LJL43_LHA0827_barplot.csv		input data for R  
 speed_LJL43_LHA0827_barplot.R		R script  
 		
-Glauconema_2024-Figure-1O-S6G:  	
+Glauconema_2024-Figure-1O-S6G:  
 LHA0827.R		R script  
 LHA0827.xlsx		input data for R  
 LJL43.R		R script  
 LJL43.xlsx	input data for R  
 		
-Glauconema_2024-Figure-2A:  	
+Glauconema_2024-Figure-2A:  
 ChrInfo.tab		input data for R for TBtools  
 geneid_pos.txt		input data for R for TBtools  
 illumima_depth.txt		input data for R for TBtools  
