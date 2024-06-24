@@ -10,7 +10,7 @@
 - [Introduction](#introduction)
 - [System Requirement and dependency](#system-requirement-and-dependency)
 - [Usage](#usage)
-- [dataset](#dataset)
+- [Dataset](#dataset)
 - [Citation](#citation)
 
 # Introduction
