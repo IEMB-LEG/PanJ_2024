@@ -32,11 +32,10 @@ R
 
 
 # Usage
-**a. Figure-1**
+**a. Figure-1L**
 
-xxxxx
 ```
-Figure_1L.R	Figure_1L.xlsx 
+Rscript	Figure_1L.R	Figure_1L.xlsx 
 ```
 
 # dataset
