@@ -32,7 +32,8 @@ R
 
 
 # Usage
-**a. Figure-1L**
+**Sample**
+**Figure-1L**
 
 The survival curve of tomites of G. sp1 LHA0827 upon starvation.
 ```
