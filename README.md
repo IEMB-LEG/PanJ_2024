@@ -1,3 +1,63 @@
+# Glauconema phenotypic plasticity
+
+![Version](https://img.shields.io/badge/Version-1.0-brightgreen)
+![Release date](https://img.shields.io/badge/Release%20date-Jun.%222%2C%202024-brightgreen.svg)
+
+
+
+## Contents
+
+- [Introduction](#introduction)
+- [System Requirement and dependency](#system-requirement-and-dependency)
+- [Usage](#usage)
+- [dataset](#dataset)
+- [Citation](#citation)
+
+# Introduction
+
+Glauconema phenotypic plasticity
+
+# System Requirement and dependency
+
+## Hardware Requirements
+
+Glauconema phenotypic plasticity only requires a standard computer with sufficient RAM to support the operations defined by a user. For typical users, this would be a computer with about 2 GB of RAM. For optimal performance, we recommend a computer with the following specs:
+
+  RAM: 8+ GB
+  CPU: 4+ cores, 3.3+ GHz/core
+
+## Software Requirements
+
+R
+
+
+# Usage
+**a. Figure-1**
+
+xxxxx
+```
+Figure_1L.R / R script Figure_1L.xlsx / input data for R
+```
+
+# dataset
+Here we provide xx dataset .
+
+[Synthetic Dataset 1](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/synthetic_dataset_1.tar.gz) contains 40 synthetic metagenomes that are derived from 48 bacteria species.
+
+[Synthetic Dataset 2](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/synthetic_dataset_2.tar.gz) contains 100,000 synthetic metagenomes that are derived from 3,688 bacteria species.
+
+[Real Dataset 1](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/actual_dataset_1.tar.gz) contains 2,355 real human metagenomes produced by Human Microbiome Project Phase 1 (version 2).
+
+[Real Dataset 2](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/actual_dataset_2.tar.gz) contains 24 real environmental metagenomes produced by MetaSUB project.
+
+[Source files](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/metaphlan2.tree.tar.gz) of MetaPhlAn2 tree and taxonomy.
+
+[Source files](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/metaphlan3.tree.tar.gz) of MetaPhlAn3 tree and taxonomy.
+
+# Citations
+
+Pan et.al, Molecular basis of phenotypic plasticity in a marine ciliate Glauconema. 2024
+
 # Glauconema phenotypic plasticity data & scripts
 
 Pan et al. Molecular basis of phenotypic plasticity in a marine ciliate Glauconema. 2024
