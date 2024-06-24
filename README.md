@@ -15,7 +15,7 @@
 
 # Introduction
 
-Glauconema phenotypic plasticity
+The file contains the secondary derived data and scripts of paper named "Molecular basis of phenotypic plasticity in a marine ciliate".
 
 # System Requirement and dependency
 
@@ -43,31 +43,22 @@ Rscript	Figure_1L.R Figure_1L.xlsx
 ```
 
 # dataset
-Here we provide all secondary derived data and scripts for Glauconema phenotypic plasticity.
-
-# Citations
-
-Pan et.al, Molecular basis of phenotypic plasticity in a marine ciliate Glauconema. 2024
-
-# Glauconema phenotypic plasticity data & scripts
-
-Pan et al. Molecular basis of phenotypic plasticity in a marine ciliate Glauconema. 2024
-
-The Glauconema phenotypic plasticity data & scripts.zip file contains all secondary derived data and scripts of above paper.
+Here we provide the secondary derived data and scripts for Glauconema phenotypic plasticity.
 
 In the zip file, there are multiple folders named with the figure number, like Glauconema_2024-Figure-1L, which contain the data and R scripts used by the drawing.
 
 The each file are listed：
 
-Glauconema_2024-Figure-1L:		
-Figure_1L.R	/	R script
-Figure_1L.xlsx	/	input data for R
+Glauconema_2024-Figure-1L:  
+
+Figure_1L.R		R script  
+Figure_1L.xlsx		input data for R  
 		
-Glauconema_2024-Figure-1N-S6E:		
-LHA0827_length_width.R	/	R script
-LHA0827.xlsx	/	input data for R
-LJL43_length_width.R	/	R script
-LJL43.xlsx	/	input data for R
+Glauconema_2024-Figure-1N-S6E:  		
+LHA0827_length_width.R		R script   
+LHA0827.xlsx		input data for R  
+LJL43_length_width.R		R script  
+LJL43.xlsx		input data for R  
 		
 Glauconema_2024-Figure-1N-S6F:		
 speed_LJL43_LHA0827_barplot.csv	/	input data for R
@@ -263,4 +254,10 @@ LHA0827_LJL43_length_to_width_data_with_t_test_p_value.xlsx	/	input data for t.t
 swimming_speed_P_value:		
 swimming_speed.R	/	R script
 swimming_speed.xls	/	input data for R 
+
+# Citations
+
+Pan et.al, Molecular basis of phenotypic plasticity in a marine ciliate Glauconema. 2024
+
+
 
