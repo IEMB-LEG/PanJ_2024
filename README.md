@@ -36,7 +36,7 @@ R
 
 xxxxx
 ```
-Figure_1L.R / R script Figure_1L.xlsx / input data for R
+Figure_1L.R	Figure_1L.xlsx 
 ```
 
 # dataset
