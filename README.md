@@ -40,19 +40,7 @@ Rscript	Figure_1L.R Figure_1L.xlsx
 ```
 
 # dataset
-Here we provide xx dataset .
-
-[Synthetic Dataset 1](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/synthetic_dataset_1.tar.gz) contains 40 synthetic metagenomes that are derived from 48 bacteria species.
-
-[Synthetic Dataset 2](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/synthetic_dataset_2.tar.gz) contains 100,000 synthetic metagenomes that are derived from 3,688 bacteria species.
-
-[Real Dataset 1](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/actual_dataset_1.tar.gz) contains 2,355 real human metagenomes produced by Human Microbiome Project Phase 1 (version 2).
-
-[Real Dataset 2](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/actual_dataset_2.tar.gz) contains 24 real environmental metagenomes produced by MetaSUB project.
-
-[Source files](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/metaphlan2.tree.tar.gz) of MetaPhlAn2 tree and taxonomy.
-
-[Source files](http://bioinfo.single-cell.cn/Released_Software/dynamic-meta-storms/data/metaphlan3.tree.tar.gz) of MetaPhlAn3 tree and taxonomy.
+Here we provide all secondary derived data and scripts for Glauconema phenotypic plasticity.
 
 # Citations
 
