@@ -45,7 +45,7 @@ Rscript	Figure_1L.R Figure_1L.xlsx
 # dataset
 Here we provide the secondary derived data and scripts for Glauconema phenotypic plasticity.
 
-In the zip file, there are multiple folders named with the figure number, like Glauconema_2024-Figure-1L, which contain the data and R scripts used by the drawing.
+In the zip file, there are multiple folders named with the figure number, like Glauconema_2024-Figure-1L, which contain the data and R scripts used to draw.
 
 The each file are listed：
 
