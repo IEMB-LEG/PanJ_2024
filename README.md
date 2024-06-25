@@ -256,7 +256,7 @@ swimming_speed.xls		input data for R
 
 # Citations
 
-Pan et.al, Molecular basis of phenotypic plasticity in a marine ciliate Glauconema. 2024
+Pan et.al, Molecular basis of phenotypic plasticity in a marine ciliate. 2024
 
 
 
