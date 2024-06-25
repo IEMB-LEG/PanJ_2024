@@ -1,7 +1,7 @@
 # Glauconema phenotypic plasticity
 
 ![Version](https://img.shields.io/badge/Version-1.0-brightgreen)
-![Release date](https://img.shields.io/badge/Release%20date-Jun.%222%2C%202024-brightgreen.svg)
+![Release date](https://img.shields.io/badge/Release%20date-Jun.%324%202024-brightgreen.svg)
 
 
 
@@ -33,7 +33,7 @@ R
 
 # Usage
 
-**Sample**
+**Use the R script and the data in the folder to get the Figure.**
 
 **Figure-1L**
 
